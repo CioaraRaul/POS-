@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<produse>
+	<Produs>
+		<Nume>Calculator</Nume>
+		<CodIntern>157235</CodIntern>
+		<Producator>USA</Producator>
+		<Pret>2200</Pret>
+		<Categorie>Tehnologia Informatiei</Categorie>
+	</Produs>
+	<Produs>
+		<Nume>Calculator</Nume>
+		<CodIntern>157235</CodIntern>
+		<Producator>USA</Producator>
+		<Pret>2200</Pret>
+		<Categorie>Tehnologia Informatiei</Categorie>
+	</Produs>
+	<Produs>
+		<Nume>Calculator</Nume>
+		<CodIntern>157235</CodIntern>
+		<Producator>USA</Producator>
+		<Pret>2200</Pret>
+		<Categorie>Tehnologia Informatiei</Categorie>
+	</Produs>
+	<Produs>
+		<Nume>Calculator</Nume>
+		<CodIntern>157235</CodIntern>
+		<Producator>USA</Producator>
+		<Pret>2200</Pret>
+		<Categorie>Tehnologia</Categorie>
+	</Produs>
+</produse>
